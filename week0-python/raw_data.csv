@@ -1,0 +1,8 @@
+id,name,amount
+1,alice smith,100.50
+2,BOB JONES,200.75
+3,carol white,300.00
+4,bad_record,not_a_number
+5,david brown,450.25
+6,,150.00
+7,eve davis,999.99
